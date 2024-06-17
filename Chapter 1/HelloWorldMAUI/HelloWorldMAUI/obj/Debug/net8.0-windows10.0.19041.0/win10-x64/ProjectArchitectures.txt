@@ -1,0 +1,1 @@
+C:\Users\Marce\source\repos\HelloWorldMAUI\HelloWorldMAUI\HelloWorldMAUI.csproj;x64

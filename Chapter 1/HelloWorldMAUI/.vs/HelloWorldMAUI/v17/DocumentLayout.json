@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Marce\\source\\repos\\HelloWorldMAUI\\",
+  "WorkspaceRootPath": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldMAUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3D574CA-C6BA-4CDC-8786-65B93EE6E6C9}|HelloWorldMAUI\\HelloWorldMAUI.csproj|c:\\users\\marce\\source\\repos\\helloworldmaui\\helloworldmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D3D574CA-C6BA-4CDC-8786-65B93EE6E6C9}|HelloWorldMAUI\\HelloWorldMAUI.csproj|c:\\users\\marce\\onedrive\\documentos\\github\\gui-programming-with-c-sharp\\chapter 1\\helloworldmaui\\helloworldmaui\\helloworldmaui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D3D574CA-C6BA-4CDC-8786-65B93EE6E6C9}|HelloWorldMAUI\\HelloWorldMAUI.csproj|solutionrelative:helloworldmaui\\helloworldmaui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D574CA-C6BA-4CDC-8786-65B93EE6E6C9}|HelloWorldMAUI\\HelloWorldMAUI.csproj|c:\\users\\marce\\onedrive\\documentos\\github\\gui-programming-with-c-sharp\\chapter 1\\helloworldmaui\\helloworldmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D3D574CA-C6BA-4CDC-8786-65B93EE6E6C9}|HelloWorldMAUI\\HelloWorldMAUI.csproj|solutionrelative:helloworldmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3D574CA-C6BA-4CDC-8786-65B93EE6E6C9}|HelloWorldMAUI\\HelloWorldMAUI.csproj|c:\\users\\marce\\source\\repos\\helloworldmaui\\helloworldmaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3D574CA-C6BA-4CDC-8786-65B93EE6E6C9}|HelloWorldMAUI\\HelloWorldMAUI.csproj|c:\\users\\marce\\onedrive\\documentos\\github\\gui-programming-with-c-sharp\\chapter 1\\helloworldmaui\\helloworldmaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3D574CA-C6BA-4CDC-8786-65B93EE6E6C9}|HelloWorldMAUI\\HelloWorldMAUI.csproj|solutionrelative:helloworldmaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,23 +22,35 @@
       "DocumentGroups": [
         {
           "DockedHeight": 292,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "HelloWorldMAUI",
+              "DocumentMoniker": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldMAUI\\HelloWorldMAUI\\HelloWorldMAUI.csproj",
+              "RelativeDocumentMoniker": "HelloWorldMAUI\\HelloWorldMAUI.csproj",
+              "ToolTip": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldMAUI\\HelloWorldMAUI\\HelloWorldMAUI.csproj",
+              "RelativeToolTip": "HelloWorldMAUI\\HelloWorldMAUI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T02:10:01.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Marce\\source\\repos\\HelloWorldMAUI\\HelloWorldMAUI\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldMAUI\\HelloWorldMAUI\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "HelloWorldMAUI\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Marce\\source\\repos\\HelloWorldMAUI\\HelloWorldMAUI\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldMAUI\\HelloWorldMAUI\\MainPage.xaml.cs",
               "RelativeToolTip": "HelloWorldMAUI\\MainPage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -42,26 +58,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Marce\\source\\repos\\HelloWorldMAUI\\HelloWorldMAUI\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldMAUI\\HelloWorldMAUI\\MainPage.xaml",
               "RelativeDocumentMoniker": "HelloWorldMAUI\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\Marce\\source\\repos\\HelloWorldMAUI\\HelloWorldMAUI\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldMAUI\\HelloWorldMAUI\\MainPage.xaml",
               "RelativeToolTip": "HelloWorldMAUI\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-05T21:54:19.918Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedHeight": 95,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

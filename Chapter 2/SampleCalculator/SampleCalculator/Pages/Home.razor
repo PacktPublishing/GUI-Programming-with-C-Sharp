@@ -1,0 +1,43 @@
+﻿@page "/"
+
+<h3>Simple Division Calculator</h3>
+
+
+
+<input type="number" @bind="Number1" placeholder="Enter first number" />
+
+/
+
+<input type="number" @bind="Number2" placeholder="Enter second number" />
+
+
+
+<button @onclick="Calculate">Calculate</button>
+
+
+
+<p>@Result</p>
+
+
+
+@code {
+
+    double Number1 { get; set; }
+
+    double Number2 { get; set; }
+
+    string Result { get; set; }
+
+
+
+    void Calculate()
+
+    {
+
+        var res = Number1 / Number2;
+
+        Result = $"The result is {res}";
+
+    }
+
+} 

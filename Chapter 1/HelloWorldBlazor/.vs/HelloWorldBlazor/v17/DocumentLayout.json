@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE0F1E21-0D2F-4280-AA5F-E3503036032E}|HelloWorldBlazor\\HelloWorldBlazor.csproj|c:\\users\\marce\\onedrive\\documentos\\github\\gui-programming-with-c-sharp\\chapter 1\\helloworldblazor\\helloworldblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE0F1E21-0D2F-4280-AA5F-E3503036032E}|HelloWorldBlazor\\HelloWorldBlazor.csproj|solutionrelative:helloworldblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6D0A4BB1-C130-490D-B138-85F688961DAF}|HelloWorldBlazor\\HelloWorldBlazor.csproj|c:\\users\\marce\\onedrive\\documentos\\github\\gui-programming-with-c-sharp\\chapter 1\\helloworldblazor\\helloworldblazor\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D0A4BB1-C130-490D-B138-85F688961DAF}|HelloWorldBlazor\\HelloWorldBlazor.csproj|solutionrelative:helloworldblazor\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE0F1E21-0D2F-4280-AA5F-E3503036032E}|HelloWorldBlazor\\HelloWorldBlazor.csproj|c:\\users\\marce\\onedrive\\documentos\\github\\gui-programming-with-c-sharp\\chapter 1\\helloworldblazor\\helloworldblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE0F1E21-0D2F-4280-AA5F-E3503036032E}|HelloWorldBlazor\\HelloWorldBlazor.csproj|solutionrelative:helloworldblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D0A4BB1-C130-490D-B138-85F688961DAF}|HelloWorldBlazor\\HelloWorldBlazor.csproj|c:\\users\\marce\\onedrive\\documentos\\github\\gui-programming-with-c-sharp\\chapter 1\\helloworldblazor\\helloworldblazor\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D0A4BB1-C130-490D-B138-85F688961DAF}|HelloWorldBlazor\\HelloWorldBlazor.csproj|solutionrelative:helloworldblazor\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0A4BB1-C130-490D-B138-85F688961DAF}|HelloWorldBlazor\\HelloWorldBlazor.csproj|c:\\users\\marce\\onedrive\\documentos\\github\\gui-programming-with-c-sharp\\chapter 1\\helloworldblazor\\helloworldblazor\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D0A4BB1-C130-490D-B138-85F688961DAF}|HelloWorldBlazor\\HelloWorldBlazor.csproj|solutionrelative:helloworldblazor\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0A4BB1-C130-490D-B138-85F688961DAF}|HelloWorldBlazor\\HelloWorldBlazor.csproj|c:\\users\\marce\\onedrive\\documentos\\github\\gui-programming-with-c-sharp\\chapter 1\\helloworldblazor\\helloworldblazor\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D0A4BB1-C130-490D-B138-85F688961DAF}|HelloWorldBlazor\\HelloWorldBlazor.csproj|solutionrelative:helloworldblazor\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0A4BB1-C130-490D-B138-85F688961DAF}|HelloWorldBlazor\\HelloWorldBlazor.csproj|c:\\users\\marce\\onedrive\\documentos\\github\\gui-programming-with-c-sharp\\chapter 1\\helloworldblazor\\helloworldblazor\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D0A4BB1-C130-490D-B138-85F688961DAF}|HelloWorldBlazor\\HelloWorldBlazor.csproj|solutionrelative:helloworldblazor\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0A4BB1-C130-490D-B138-85F688961DAF}|HelloWorldBlazor\\HelloWorldBlazor.csproj|c:\\users\\marce\\onedrive\\documentos\\github\\gui-programming-with-c-sharp\\chapter 1\\helloworldblazor\\helloworldblazor\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D0A4BB1-C130-490D-B138-85F688961DAF}|HelloWorldBlazor\\HelloWorldBlazor.csproj|solutionrelative:helloworldblazor\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 292,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +42,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "HelloWorldBlazor\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "HelloWorldBlazor\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T02:42:16.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\Program.cs",
-              "RelativeDocumentMoniker": "HelloWorldBlazor\\Program.cs",
-              "ToolTip": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\Program.cs",
-              "RelativeToolTip": "HelloWorldBlazor\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T01:59:52.725Z",
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "HelloWorldBlazor\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "HelloWorldBlazor\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T02:42:13.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\_Imports.razor",
+              "RelativeDocumentMoniker": "HelloWorldBlazor\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\_Imports.razor",
+              "RelativeToolTip": "HelloWorldBlazor\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T02:42:10.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\App.razor",
+              "RelativeDocumentMoniker": "HelloWorldBlazor\\App.razor",
+              "ToolTip": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\App.razor",
+              "RelativeToolTip": "HelloWorldBlazor\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T02:42:09.061Z",
               "EditorCaption": ""
             },
             {
@@ -43,15 +98,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "HelloWorldBlazor\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\Components\\Pages\\Home.razor*",
-              "RelativeToolTip": "HelloWorldBlazor\\Components\\Pages\\Home.razor*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAACAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "HelloWorldBlazor\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\Pages\\Weather.razor",
+              "RelativeToolTip": "HelloWorldBlazor\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-05T20:59:36.154Z",
+              "WhenOpened": "2025-02-17T02:41:22.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "HelloWorldBlazor\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\Pages\\Home.razor",
+              "RelativeToolTip": "HelloWorldBlazor\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T02:40:32.667Z",
               "EditorCaption": ""
             }
           ]

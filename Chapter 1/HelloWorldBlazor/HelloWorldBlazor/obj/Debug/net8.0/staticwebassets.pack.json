@@ -1,24 +1,28 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HelloWorldBlazor.bundle.scp.css",
-      "PackagePath": "staticwebassets\\HelloWorldBlazor.bundle.scp.css"
+      "Id": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HelloWorldBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HelloWorldBlazor.g022xl09bn.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\app.css",
+      "Id": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HelloWorldBlazor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HelloWorldBlazor.Microsoft.AspNetCore.StaticWebAssets.props",

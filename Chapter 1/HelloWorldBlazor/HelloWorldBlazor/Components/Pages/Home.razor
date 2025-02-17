@@ -1,14 +1,17 @@
-﻿@page "/"
+﻿@page "/greet"
+@rendermode InteractiveServer
 
 <h3>Greet</h3>
-
 <input @bind="Name" placeholder="Enter your name" />
-
 <button @onclick="ShowGreeting">Greet</button>
 
-<p>@Greeting</p>
+@if (!string.IsNullOrEmpty(Greeting))
+{
+    <p>@Greeting</p>
+}
 
 @code {
+
     string Name { get; set; }
     string Greeting { get; set; }
 
@@ -16,4 +19,5 @@
     {
         Greeting = $"Hello {Name}";
     }
-}
+
+} 

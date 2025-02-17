@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\",
+  "WorkspaceRootPath": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE0F1E21-0D2F-4280-AA5F-E3503036032E}|HelloWorldBlazor\\HelloWorldBlazor.csproj|c:\\users\\marce\\source\\repos\\helloworldblazor\\helloworldblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BE0F1E21-0D2F-4280-AA5F-E3503036032E}|HelloWorldBlazor\\HelloWorldBlazor.csproj|c:\\users\\marce\\onedrive\\documentos\\github\\gui-programming-with-c-sharp\\chapter 1\\helloworldblazor\\helloworldblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BE0F1E21-0D2F-4280-AA5F-E3503036032E}|HelloWorldBlazor\\HelloWorldBlazor.csproj|solutionrelative:helloworldblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0F1E21-0D2F-4280-AA5F-E3503036032E}|HelloWorldBlazor\\HelloWorldBlazor.csproj|c:\\users\\marce\\onedrive\\documentos\\github\\gui-programming-with-c-sharp\\chapter 1\\helloworldblazor\\helloworldblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0F1E21-0D2F-4280-AA5F-E3503036032E}|HelloWorldBlazor\\HelloWorldBlazor.csproj|solutionrelative:helloworldblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,38 +18,41 @@
       "DocumentGroups": [
         {
           "DockedHeight": 292,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorldBlazor\\Program.cs",
+              "ToolTip": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\Program.cs",
+              "RelativeToolTip": "HelloWorldBlazor\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T01:59:52.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\Components\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "HelloWorldBlazor\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "HelloWorldBlazor\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ToolTip": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\Components\\Pages\\Home.razor*",
+              "RelativeToolTip": "HelloWorldBlazor\\Components\\Pages\\Home.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-05T20:59:36.154Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedHeight": 95,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

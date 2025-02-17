@@ -1,0 +1,53 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="Chapter5.MainPage">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Label">
+                <Setter Property="TextColor" Value="GhostWhite" />
+                <Setter Property="FontSize" Value="20" />
+            </Style>
+            <Style TargetType="ContentPage" ApplyToDerivedTypes="True">
+                <Setter Property="BackgroundColor" Value="{AppThemeBinding Light=White, Dark=Black}" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <VerticalStackLayout Padding="10">
+        <BoxView HeightRequest="2" BackgroundColor="LightGray" HorizontalOptions="Fill" Margin="0,10"/>
+        <StackLayout>
+            <Label Text="Welcome to .NET MAUI!" 
+               VerticalOptions="CenterAndExpand"  
+               HorizontalOptions="CenterAndExpand"/>
+        </StackLayout>
+        <BoxView HeightRequest="2" BackgroundColor="LightGray" HorizontalOptions="Fill" Margin="0,10"/>
+        <StackLayout Orientation="Vertical">
+            <Label Text="First Label" />
+            <Label Text="Second Label" />
+        </StackLayout>
+        <BoxView HeightRequest="2" BackgroundColor="LightGray" HorizontalOptions="Fill" Margin="0,10"/>
+        <FlexLayout Direction="Row" JustifyContent="SpaceBetween">
+            <Label Text="Left" />
+            <Label Text="Center" />
+            <Label Text="Right" />
+        </FlexLayout>
+        <BoxView HeightRequest="2" BackgroundColor="LightGray" HorizontalOptions="Fill" Margin="0,10"/>
+        <Button Text="Click Me" Clicked="OnButtonClick" />
+        <BoxView HeightRequest="2" BackgroundColor="LightGray" HorizontalOptions="Fill" Margin="0,10"/>
+        <Label Text="Hello, World!" />
+        <BoxView HeightRequest="2" BackgroundColor="LightGray" HorizontalOptions="Fill" Margin="0,10"/>
+        <Entry Placeholder="Enter text here" />
+        <BoxView HeightRequest="2" BackgroundColor="LightGray" HorizontalOptions="Fill" Margin="0,10"/>
+        <ListView ItemsSource="{Binding Items}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Name}" Detail="{Binding Description}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <BoxView HeightRequest="2" BackgroundColor="LightGray" HorizontalOptions="Fill" Margin="0,10"/>
+    </VerticalStackLayout>
+
+</ContentPage>
+   

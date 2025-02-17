@@ -1,0 +1,16 @@
+﻿@page "/temperature"
+
+@inject HttpClient Http
+
+<h3>Current Temperature</h3>
+<p>@temperature</p>
+
+@code {
+
+    private string temperature;
+
+    protected override async Task OnInitializedAsync()
+    {
+        temperature = await Http.GetStringAsync("https://api.example.com/temperature");
+    }
+} 

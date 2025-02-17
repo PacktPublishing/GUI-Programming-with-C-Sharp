@@ -1,4 +1,5 @@
 ﻿@page "/greet"
+@rendermode InteractiveServer
 
 <h3>Greet</h3>
 <input @bind="Name" placeholder="Enter your name" />
@@ -10,7 +11,6 @@
 }
 
 @code {
-
     string Name { get; set; }
     string Greeting { get; set; }
 
@@ -18,5 +18,4 @@
     {
         Greeting = $"Hello {Name}";
     }
-
 } 

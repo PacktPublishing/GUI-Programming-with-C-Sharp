@@ -1,0 +1,10 @@
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWordWinForms\HelloWorldWinForms\bin\Debug\HelloWorldWinForms.exe.config
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWordWinForms\HelloWorldWinForms\bin\Debug\HelloWorldWinForms.exe
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWordWinForms\HelloWorldWinForms\bin\Debug\HelloWorldWinForms.pdb
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWordWinForms\HelloWorldWinForms\obj\Debug\Book1.csproj.AssemblyReference.cache
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWordWinForms\HelloWorldWinForms\obj\Debug\Book1.Form1.resources
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWordWinForms\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.Properties.Resources.resources
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWordWinForms\HelloWorldWinForms\obj\Debug\Book1.csproj.GenerateResource.cache
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWordWinForms\HelloWorldWinForms\obj\Debug\Book1.csproj.CoreCompileInputs.cache
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWordWinForms\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.exe
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWordWinForms\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.pdb

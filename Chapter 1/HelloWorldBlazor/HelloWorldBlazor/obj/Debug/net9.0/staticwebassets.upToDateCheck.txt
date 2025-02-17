@@ -1,0 +1,7 @@
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\wwwroot\bootstrap\bootstrap.min.css
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\wwwroot\bootstrap\bootstrap.min.css.map
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\wwwroot\app.css
+wwwroot\app.css
+wwwroot\bootstrap\bootstrap.min.css
+wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\favicon.png

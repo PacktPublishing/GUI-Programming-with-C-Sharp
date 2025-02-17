@@ -27,3 +27,37 @@ C:\Users\Marce\source\repos\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\r
 C:\Users\Marce\source\repos\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\HelloWorldBlazor.pdb
 C:\Users\Marce\source\repos\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\HelloWorldBlazor.genruntimeconfig.cache
 C:\Users\Marce\source\repos\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\ref\HelloWorldBlazor.dll
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\bin\Debug\net8.0\appsettings.json
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\bin\Debug\net8.0\HelloWorldBlazor.staticwebassets.runtime.json
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\bin\Debug\net8.0\HelloWorldBlazor.staticwebassets.endpoints.json
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\bin\Debug\net8.0\HelloWorldBlazor.exe
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\bin\Debug\net8.0\HelloWorldBlazor.deps.json
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\bin\Debug\net8.0\HelloWorldBlazor.runtimeconfig.json
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\bin\Debug\net8.0\HelloWorldBlazor.dll
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\bin\Debug\net8.0\HelloWorldBlazor.pdb
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\HelloWorldBlazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\HelloWorldBlazor.AssemblyInfoInputs.cache
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\HelloWorldBlazor.AssemblyInfo.cs
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\HelloWorldBlazor.csproj.CoreCompileInputs.cache
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\HelloWorldBlazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\HelloWorldBlazor.sourcelink.json
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\scopedcss\bundle\HelloWorldBlazor.styles.css
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\scopedcss\projectbundle\HelloWorldBlazor.bundle.scp.css
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\staticwebassets\msbuild.HelloWorldBlazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\staticwebassets\msbuild.HelloWorldBlazor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\staticwebassets\msbuild.build.HelloWorldBlazor.props
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HelloWorldBlazor.props
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HelloWorldBlazor.props
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\HelloWorldBlazor.dll
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\refint\HelloWorldBlazor.dll
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\HelloWorldBlazor.pdb
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\HelloWorldBlazor.genruntimeconfig.cache
+C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldBlazor\HelloWorldBlazor\obj\Debug\net8.0\ref\HelloWorldBlazor.dll

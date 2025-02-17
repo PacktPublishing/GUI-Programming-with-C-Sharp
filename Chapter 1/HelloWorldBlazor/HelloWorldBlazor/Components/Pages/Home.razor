@@ -1,4 +1,5 @@
-﻿@page "/"
+﻿@page "/greet"
+@rendermode InteractiveServer
 
 <h3>Greet</h3>
 
@@ -9,10 +10,10 @@
 <p>@Greeting</p>
 
 @code {
-    string Name { get; set; }
-    string Greeting { get; set; }
+    public string Name { get; set; } = string.Empty;
+    public string Greeting { get; set; } = string.Empty;
 
-    void ShowGreeting()
+    public void ShowGreeting()
     {
         Greeting = $"Hello {Name}";
     }

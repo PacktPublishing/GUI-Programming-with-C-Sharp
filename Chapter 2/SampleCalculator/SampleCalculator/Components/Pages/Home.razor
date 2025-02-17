@@ -1,0 +1,41 @@
+﻿@page "/"
+@rendermode InteractiveServer
+
+@inject ILogger<Home> Log
+@inject Microsoft.AspNetCore.Hosting.IWebHostEnvironment Environment
+
+<h3>Simple Division Calculator</h3>
+<input type="number" @bind="Number1" placeholder="Enter first number" />
+/
+<input type="number" @bind="Number2" placeholder="Enter second number" />
+<button @onclick="Calculate">Calculate</button>
+<p>@Result</p>
+
+<p>Server Information: @Environment.EnvironmentName running on @Environment.ApplicationName</p>
+
+@code {
+
+    int Number1 { get; set; }
+    int Number2 { get; set; }
+    string Result { get; set; }
+
+    void Calculate()
+    {
+        try
+        {
+            var res = Number1 / Number2;
+            Log.LogInformation(res.ToString());
+            Result = $"The result is {res}";
+        }
+        catch (DivideByZeroException)
+        {
+            Log.LogError("Division by zero attempted.");
+            Result = "Error: Division by zero is not allowed.";
+        }
+        catch (Exception ex)
+        {
+            Log.LogError(ex, "An error occurred while calculating.");
+            Result = "Error: An unexpected error occurred.";
+        }
+    }
+}

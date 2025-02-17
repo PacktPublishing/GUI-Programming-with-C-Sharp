@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9l+JD1tg/UNVCRBaIzoBvW2t1hkxx9uPd2dNrV5mlTM=",
+  "Hash": "L2fVwXGCvBENPMxT186ld1c+4ttZp7HhmvvlWdb4gAY=",
   "Source": "HelloWorldBlazor",
   "BasePath": "_content/HelloWorldBlazor",
   "Mode": "Default",
@@ -10,19 +10,19 @@
     {
       "Name": "HelloWorldBlazor\\wwwroot",
       "Source": "HelloWorldBlazor",
-      "ContentRoot": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\",
       "BasePath": "_content/HelloWorldBlazor",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HelloWorldBlazor.styles.css",
+      "Identity": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HelloWorldBlazor.styles.css",
       "SourceId": "HelloWorldBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/HelloWorldBlazor",
-      "RelativePath": "HelloWorldBlazor#[.{fingerprint}]?.styles.css",
+      "RelativePath": "HelloWorldBlazor.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -31,19 +31,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "g022xl09bn",
-      "Integrity": "UBTqX8NHeZ+QsUV9sFLnOTtiIu89bhMrznAQtlPuGcY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HelloWorldBlazor.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HelloWorldBlazor.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HelloWorldBlazor.bundle.scp.css",
+      "Identity": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HelloWorldBlazor.bundle.scp.css",
       "SourceId": "HelloWorldBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/HelloWorldBlazor",
-      "RelativePath": "HelloWorldBlazor#[.{fingerprint}]!.bundle.scp.css",
+      "RelativePath": "HelloWorldBlazor.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -52,589 +50,85 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "g022xl09bn",
-      "Integrity": "UBTqX8NHeZ+QsUV9sFLnOTtiIu89bhMrznAQtlPuGcY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HelloWorldBlazor.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HelloWorldBlazor.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\app.css",
       "SourceId": "HelloWorldBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\",
       "BasePath": "_content/HelloWorldBlazor",
-      "RelativePath": "app#[.{fingerprint}]?.css",
+      "RelativePath": "app.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "da95v2qkru",
-      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "HelloWorldBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\",
       "BasePath": "_content/HelloWorldBlazor",
-      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bpk8xqwxhs",
-      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "HelloWorldBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\",
       "BasePath": "_content/HelloWorldBlazor",
-      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8inm30yfxf",
-      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\favicon.png",
       "SourceId": "HelloWorldBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marce\\source\\repos\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\",
       "BasePath": "_content/HelloWorldBlazor",
-      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "RelativePath": "favicon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ifv42okdf2",
-      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
-    }
-  ],
-  "Endpoints": [
-    {
-      "Route": "app.css",
-      "AssetFile": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\app.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2591"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 05 May 2024 20:58:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
-        }
-      ]
-    },
-    {
-      "Route": "app.da95v2qkru.css",
-      "AssetFile": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\app.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2591"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 05 May 2024 20:58:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "da95v2qkru"
-        },
-        {
-          "Name": "label",
-          "Value": "app.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
-        }
-      ]
-    },
-    {
-      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162720"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 05 May 2024 20:58:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bpk8xqwxhs"
-        },
-        {
-          "Name": "label",
-          "Value": "bootstrap/bootstrap.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
-        }
-      ]
-    },
-    {
-      "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162720"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 05 May 2024 20:58:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
-        }
-      ]
-    },
-    {
-      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "449111"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 05 May 2024 20:58:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8inm30yfxf"
-        },
-        {
-          "Name": "label",
-          "Value": "bootstrap/bootstrap.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "449111"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 05 May 2024 20:58:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\favicon.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1148"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 05 May 2024 20:58:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ifv42okdf2"
-        },
-        {
-          "Name": "label",
-          "Value": "favicon.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
-        }
-      ]
-    },
-    {
-      "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\wwwroot\\favicon.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1148"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 05 May 2024 20:58:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
-        }
-      ]
-    },
-    {
-      "Route": "HelloWorldBlazor.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HelloWorldBlazor.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5915"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UBTqX8NHeZ+QsUV9sFLnOTtiIu89bhMrznAQtlPuGcY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 05 May 2024 21:03:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UBTqX8NHeZ+QsUV9sFLnOTtiIu89bhMrznAQtlPuGcY="
-        }
-      ]
-    },
-    {
-      "Route": "HelloWorldBlazor.g022xl09bn.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HelloWorldBlazor.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5915"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UBTqX8NHeZ+QsUV9sFLnOTtiIu89bhMrznAQtlPuGcY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 05 May 2024 21:03:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "g022xl09bn"
-        },
-        {
-          "Name": "label",
-          "Value": "HelloWorldBlazor.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-UBTqX8NHeZ+QsUV9sFLnOTtiIu89bhMrznAQtlPuGcY="
-        }
-      ]
-    },
-    {
-      "Route": "HelloWorldBlazor.g022xl09bn.styles.css",
-      "AssetFile": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HelloWorldBlazor.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5915"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UBTqX8NHeZ+QsUV9sFLnOTtiIu89bhMrznAQtlPuGcY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 05 May 2024 21:03:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "g022xl09bn"
-        },
-        {
-          "Name": "label",
-          "Value": "HelloWorldBlazor.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-UBTqX8NHeZ+QsUV9sFLnOTtiIu89bhMrznAQtlPuGcY="
-        }
-      ]
-    },
-    {
-      "Route": "HelloWorldBlazor.styles.css",
-      "AssetFile": "C:\\Users\\Marce\\OneDrive\\Documentos\\GitHub\\GUI-Programming-with-C-Sharp\\Chapter 1\\HelloWorldBlazor\\HelloWorldBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HelloWorldBlazor.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5915"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UBTqX8NHeZ+QsUV9sFLnOTtiIu89bhMrznAQtlPuGcY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 05 May 2024 21:03:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UBTqX8NHeZ+QsUV9sFLnOTtiIu89bhMrznAQtlPuGcY="
-        }
-      ]
     }
   ]
 }

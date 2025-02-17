@@ -7,8 +7,7 @@
     },
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false,
-      "System.Runtime.Loader.UseRidGraph": true,
-      "CSWINRT_USE_WINDOWS_UI_XAML_PROJECTIONS": false
+      "System.Runtime.Loader.UseRidGraph": true
     }
   }
 }

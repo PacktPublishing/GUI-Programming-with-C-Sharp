@@ -1,1 +1,1 @@
-C:\Users\Marce\OneDrive\Documentos\GitHub\GUI-Programming-with-C-Sharp\Chapter 1\HelloWorldMAUI\HelloWorldMAUI\HelloWorldMAUI.csproj;x64
+C:\Users\Marce\source\repos\HelloWorldMAUI\HelloWorldMAUI\HelloWorldMAUI.csproj;x64

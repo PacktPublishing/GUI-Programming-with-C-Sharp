@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Chapter6"
+             x:Class="Chapter6.MainPage">
+    
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="ButtonStyle" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="CadetBlue" />
+                <Setter Property="TextColor" Value="White" />
+            </Style>
+            <Style TargetType="ContentPage" x:Key="LightTheme">
+                <Setter Property="BackgroundColor" Value="White" />
+            </Style>
+            <Style TargetType="ContentPage" x:Key="DarkTheme">
+                <Setter Property="BackgroundColor" Value="Black" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.BindingContext>
+        <local:UserViewModel />
+    </ContentPage.BindingContext>
+
+    <VerticalStackLayout>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50" />
+                <RowDefinition Height="50" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="200" />
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" Text="Username:" />
+            <Entry Grid.Row="0" Grid.Column="1" x:Name="usernameEntry" />
+            <Label Grid.Row="1" Grid.Column="0" Text="Password:" />
+            <Entry Grid.Row="1" Grid.Column="1" x:Name="passwordEntry" IsPassword="True" />
+        </Grid>
+        <StackLayout>
+            <Button Text="Submit" Clicked="OnSubmitClicked" Style="{StaticResource ButtonStyle}" WidthRequest="200" HorizontalOptions="Start" />
+            <Label Text="Entered Username:" />
+            <Label Text="{Binding Username}" />
+            <Label Text="Entered Password:" />
+            <Label Text="{Binding Password}" />
+        </StackLayout>
+    </VerticalStackLayout>
+
+</ContentPage>

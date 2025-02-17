@@ -1,0 +1,24 @@
+﻿<style>
+    @CardStyles
+</style>
+
+<!-- CardComponent.razor -->
+<div class="card">
+    <h2>Title</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+</div>
+
+@rendermode InteractiveServer
+
+@code {
+    // Scoped CSS styles
+    private string CardStyles => @"
+        .card {
+            background-color: #f0f0f0;
+            border: 1px solid #dee2e6;
+            border-radius: 5px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    ";
+} 

@@ -1,0 +1,14 @@
+﻿<!-- TextInputComponent.razor -->
+
+<div>
+    <input type="text" @bind="Value" @bind:event="oninput" />
+    <p>You entered: @Value</p>
+</div>
+
+@rendermode InteractiveServer
+
+@code {
+
+    private string Value { get; set; } = "";
+
+} 

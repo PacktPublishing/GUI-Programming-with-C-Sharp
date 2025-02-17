@@ -1,0 +1,23 @@
+﻿<!-- CounterComponent.razor -->
+
+<div>
+    <h1>Current Count: @counterState.Count</h1>
+    <button @onclick="IncrementCount">Increment</button>
+</div>
+
+@rendermode InteractiveServer
+
+@code {
+
+    public class CounterState
+    {
+        public int Count { get; set; }
+    }
+
+    private CounterState counterState { get; set; } = new CounterState();
+
+    private void IncrementCount()
+    {
+        counterState.Count++;
+    }
+} 

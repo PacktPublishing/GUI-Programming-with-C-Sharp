@@ -1,0 +1,32 @@
+﻿<!-- WeatherForecastComponent.razor -->
+
+<div>
+
+    <h1>Weather Forecast</h1>
+
+    @foreach (var forecast in Forecasts)
+    {
+        <p>@forecast.Date: @forecast.Temperature °F</p>
+    }
+
+</div>
+
+@rendermode InteractiveServer
+
+@code {
+
+    public class WeatherForecast {
+        public string Date { get; set; } = "";
+        public double Temperature { get; set; } = 0;
+    }
+
+    public List<WeatherForecast> Forecasts { get; set; } = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        Forecasts.AddRange(new List<WeatherForecast> {
+            new WeatherForecast { Date = "Yesterday", Temperature = 72},
+            new WeatherForecast { Date = "Today", Temperature = 79},
+            new WeatherForecast { Date = "Tomorrow", Temperature = 75}});
+    }
+} 

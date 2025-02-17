@@ -1,0 +1,18 @@
+﻿<!-- ButtonComponent.razor -->
+<div>
+
+    <button style="background-color: #007bff; color: #fff; padding: 10px 20px; border: none; border-radius: 5px;" 
+    @onclick="OnClick">@ButtonText</button>
+
+</div>
+
+@rendermode InteractiveServer
+
+@code {
+    public string ButtonText = "Click me";
+
+    public void OnClick()
+    {
+        ButtonText = "Clicked";
+    }
+} 

@@ -1,0 +1,25 @@
+﻿<!-- ListComponent.razor -->
+
+<div>
+    @if (Items.Count > 0)
+    {
+        <ul>
+            @foreach (var item in Items)
+            {
+                <li>@item</li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p>No items to display</p>
+    }
+
+</div>
+
+@rendermode InteractiveServer
+
+@code {
+    [Parameter]
+    public List<string> Items { get; set; } = new() { "Item1", "Item2", "Item3" };
+} 

@@ -1,0 +1,31 @@
+﻿<!-- LifecycleComponent.razor -->
+
+<div>
+
+    <h1>@Message</h1>
+
+</div>
+
+@rendermode InteractiveServer
+
+@code {
+    private string Message { get; set; } = "";
+
+    protected override void OnInitialized()
+    {
+        Message = "Component initialized";
+    }
+
+    protected override void OnParametersSet()
+    {
+        Message = "Component parameters set";
+    }
+
+    protected override void OnAfterRender(bool firstRender)
+    {
+        if (firstRender)
+        {
+            // Perform additional initialization after the component has been rendered
+        }
+    }
+} 

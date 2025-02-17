@@ -1,0 +1,12 @@
+﻿<!-- ParentComponent.razor --> 
+
+<div> 
+    <ChildComponent @bind-Value="SharedValue" /> 
+    <p>Shared Value: @SharedValue</p> 
+</div> 
+
+@rendermode InteractiveServer 
+
+@code {
+    private string SharedValue { get; set; } = "";
+}

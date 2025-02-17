@@ -1,0 +1,16 @@
+﻿<!-- GreetingComponent.razor -->
+<div>
+    <h1>@Message, @Name!</h1>
+</div>
+
+
+@rendermode InteractiveServer
+
+@code {
+    [Parameter]
+    public string Name { get; set; } = "";
+
+    [Parameter]
+    public string Message { get; set; } = "";
+
+} 

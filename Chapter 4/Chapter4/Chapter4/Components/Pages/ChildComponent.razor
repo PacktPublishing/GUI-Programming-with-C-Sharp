@@ -1,0 +1,25 @@
+﻿<!-- ChildComponent.razor -->
+
+<div>
+    <input type="text" @bind="ValueProxy" @bind:event="oninput" />
+</div>
+
+@rendermode InteractiveServer
+
+@code {
+    [Parameter]
+    public string Value { get; set; } = "";
+
+    [Parameter]
+    public EventCallback<string> ValueChanged { get; set; }
+
+    private string ValueProxy
+    {
+        get => Value;
+        set
+        {
+            Value = value;
+            ValueChanged.InvokeAsync(value); // Notify ParentComponent
+        }
+    }
+} 

@@ -1,0 +1,77 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:Chapter7" 
+             x:Class="Chapter7.MainPage"
+             Padding="20">
+
+    <ContentPage.Resources>
+        <local:BoolToColorConverter x:Key="BoolToColorConverter" />
+    </ContentPage.Resources>
+
+    <ContentPage.BindingContext>
+        <local:MainViewModel />
+    </ContentPage.BindingContext>
+
+    <VerticalStackLayout Spacing="24">
+
+        <Label Text="{Binding Title}" 
+               FontSize="24" 
+               FontAttributes="Bold" 
+               HorizontalOptions="Center"
+               HorizontalTextAlignment="Center" />
+
+        <Frame Padding="16" CornerRadius="12" BackgroundColor="#F5F5F5">
+            <VerticalStackLayout Spacing="12">
+                <Label Text="Input your name here:" 
+                       HorizontalOptions="Center"
+                       HorizontalTextAlignment="Center" />
+                <Entry Text="{Binding UserName, Mode=TwoWay}" 
+                       TextColor="Black"
+                       HorizontalOptions="Center"
+                       HorizontalTextAlignment="Center"
+                       WidthRequest="200"/>
+                <Label 
+                    Text="{Binding UserName, StringFormat='Hello {0}'}" 
+                    FontAttributes="Italic" 
+                    TextColor="Gray"
+                    HorizontalOptions="Center"
+                    HorizontalTextAlignment="Center" />
+            </VerticalStackLayout>
+        </Frame>
+
+        <Label Text="Active or Not"
+               FontSize="18"
+               TextColor="{Binding IsItemActive, Converter={StaticResource BoolToColorConverter}}"
+               HorizontalOptions="Center"
+               HorizontalTextAlignment="Center" />
+
+        <Label Text="Books" 
+               FontSize="20" 
+               FontAttributes="Bold" 
+               HorizontalOptions="Center"
+               HorizontalTextAlignment="Center" />
+
+        <CollectionView ItemsSource="{Binding Books}" 
+                        HeightRequest="250"
+                        HorizontalOptions="Center">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame Margin="0,4" Padding="10" CornerRadius="8" BorderColor="#DDD">
+                        <VerticalStackLayout>
+                            <Label Text="{Binding Title}" 
+                                   FontAttributes="Bold"
+                                   HorizontalOptions="Center"
+                                   HorizontalTextAlignment="Center" />
+                            <Label Text="{Binding Author}" 
+                                   FontSize="12" 
+                                   TextColor="Gray"
+                                   HorizontalOptions="Center"
+                                   HorizontalTextAlignment="Center" />
+                        </VerticalStackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+    </VerticalStackLayout>
+</ContentPage>

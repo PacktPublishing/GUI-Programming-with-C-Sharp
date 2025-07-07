@@ -41,7 +41,6 @@ public class MainViewModel : INotifyPropertyChanged
     }
     public ObservableCollection<Book> Books { get; set; }
 
-    // Add this event implementation
     public event PropertyChangedEventHandler PropertyChanged;
 
     protected void OnPropertyChanged([CallerMemberName] string propertyName = null)

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+    x:Class="Chapter_9.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Chapter_9"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="Chapter 9">
+
+    <Window.SystemBackdrop>
+        <MicaBackdrop />
+    </Window.SystemBackdrop>
+
+    <NavigationView x:Name="MyNavigationView"
+                IsPaneOpen="True"
+                IsBackButtonVisible="Collapsed"
+                PaneDisplayMode="Left"
+                VerticalAlignment="Stretch"
+                HorizontalAlignment="Stretch">
+
+        <NavigationView.MenuItems>
+            <NavigationViewItem Icon="Home" Content="Home" Tag="home" />
+            <NavigationViewItem Icon="Contact" Content="Profile" Tag="profile"/>
+            <NavigationViewItem Icon="Bookmarks" Content="Favorite Courses" Tag="courses" />
+            <NavigationViewItem Icon="Phone" Content="Contact" Tag="contact" />
+            <NavigationViewItem Icon="Setting" Content="Settings" Tag="settings" />
+        </NavigationView.MenuItems>
+
+        <StackPanel Orientation="Vertical" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <TextBlock
+                Text="Learning Management System"
+                FontSize="32"       
+                FontWeight="Bold"   
+                Foreground="#182980"
+                Margin="0 0 50 0"
+                HorizontalAlignment="Center"
+    />
+            <Border Background="Black" Padding="10">
+                <TextBlock
+                   TextWrapping="Wrap"
+                   FontSize="16"
+                   Margin="10"
+                   LineHeight="24"
+                   Foreground="#ffffff">
+                        Welcome to LMS! Here, you can find the details of your favorite educational courses, grades, and more.
+                        It is designed to support students in personalized learning, help them manage their work effectively, and
+                        seek guidance from educators in difficult situations.
+                </TextBlock>
+            </Border>
+
+            <!-- Main Content -->
+            <StackPanel x:Name="FavoriteCoursesPanel" Visibility="Collapsed">
+                <TextBlock
+                    Text="My Favorite Courses"
+                    FontSize="32"
+                    FontWeight="Bold"
+                    Foreground="#182980"
+                    Margin="0 0 50 0"
+    />
+                <ListView x:Name="FavoriteCoursesList">
+                    <ListView.Items>
+                        <TextBlock Text="Course 1" />
+                        <TextBlock Text="Course 2" />
+                        <TextBlock Text="Course 3" />
+                        <TextBlock Text="Course 4" />
+                        <TextBlock Text="Course 5" />
+                    </ListView.Items>
+                </ListView>
+
+                <TextBlock
+                    Text="Favorite Course Selector"
+                    FontSize="32"
+                    FontWeight="Bold"
+                    Foreground="#182980"
+                    Margin="0 0 50 0"
+                    HorizontalAlignment="Center"
+/>
+                <Grid>
+                    <GridView x:Name="FavoriteCoursesGrid"
+                      HorizontalAlignment="Stretch"
+                      VerticalAlignment="Stretch"
+                      SelectionMode="Single"
+                      Margin="0">
+                    <GridView.Items>
+                            <StackPanel Width="200" Height="50" Background="LightGray" Margin="10">
+                                <TextBlock Text="Application Development" HorizontalAlignment="Center"/>
+                            </StackPanel>
+                            <StackPanel Width="200" Height="50" Background="LightGray" Margin="10">
+                                <TextBlock Text="OOP" HorizontalAlignment="Center"/>
+                            </StackPanel>
+                            <StackPanel Width="200" Height="50" Background="LightGray" Margin="10">
+                                <TextBlock Text="Data Structures" HorizontalAlignment="Center"/>
+                            </StackPanel>
+                            <StackPanel Width="200" Height="50" Background="LightGray" Margin="10">
+                                <TextBlock Text="Operating Systems" HorizontalAlignment="Center"/>
+                            </StackPanel>
+                            <StackPanel Width="200" Height="50" Background="LightGray" Margin="10">
+                                <TextBlock Text="Database" HorizontalAlignment="Center"/>
+                            </StackPanel>
+                        </GridView.Items>
+                    </GridView>
+                </Grid>
+            </StackPanel>
+        </StackPanel>
+    </NavigationView>
+</Window>
